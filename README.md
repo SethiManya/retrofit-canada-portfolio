@@ -2,9 +2,13 @@
 
 ### Public capstone showcase · Manya Sethi
 
+[![Open Live Demo](https://img.shields.io/badge/Open_Live_Demo-Azure_Static_Web_Apps-0078D4?style=for-the-badge&logo=microsoftazure)](https://delightful-tree-02f1c430f.7.azurestaticapps.net/)
+
+**Live website:** https://delightful-tree-02f1c430f.7.azurestaticapps.net/
+
 A team capstone project at **SAIT**: a web portal for exploring Canadian building retrofit case studies through maps, filters, comparisons, and dashboards.
 
-This overview builds on the project description on [my public GitHub profile](https://github.com/SethiManya). Application source code is not included.
+This overview builds on the project description on [my public GitHub profile](https://github.com/SethiManya). The live application is public; the team source repository remains private.
 
 ## My contribution
 
@@ -14,7 +18,7 @@ The complete portal was developed collaboratively. The application features desc
 
 ## Technologies
 
-**React · TypeScript · Vite · Leaflet**
+**React · TypeScript · Vite · Leaflet · Azure Static Web Apps**
 
 ## Project purpose
 
@@ -26,8 +30,11 @@ The portal brings building retrofit case studies into an interface where users c
 | Maps and filters | Navigate and narrow the information displayed |
 | Comparisons and dashboards | Review information across case studies |
 
+## Explore
+
+- [Open the live website](https://delightful-tree-02f1c430f.7.azurestaticapps.net/)
+- [View my other projects](https://github.com/SethiManya)
+
 ## Portfolio scope
 
-This is a public contribution overview, not a runnable application or live demo. The team source repository remains private.
-
-[View my other projects](https://github.com/SethiManya)
+This repository is a public contribution overview. The live website is available above, while the collaborative team source repository remains private.
